@@ -33,7 +33,7 @@ Home Credit perlu mengidentifikasi calon nasabah yang berisiko mengalami kesulit
 
 ### Karakteristik Dataset
 
-- ±307.511 baris data training
+- 307.511 baris data training
 - 233 fitur awal
 
 ### Target Variable
