@@ -137,3 +137,10 @@ Model terbaik: **XGBoost + External Data**
 - Integrasi external credit history meningkatkan performa model secara konsisten
 - XGBoost menunjukkan hasil terbaik
 - Model layak digunakan untuk mendukung strategi manajemen risiko kredit
+
+---
+
+## Link
+
+- Linkedin    : https://www.linkedin.com/in/devin-syafa-92b7bb22b/
+- Presentation: https://youtu.be/ea6SiW_jCMY
